@@ -3,7 +3,7 @@
 ##
 
 - 🎓 Atualmente no segundo semestre de ciência da computação!
-- 📫 Meus links: beacons.ai/vitor247
+- 📫 <a href="beacons.ai/vitor247">Meus links</a>
 
 <!--
 <div>
