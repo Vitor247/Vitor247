@@ -5,6 +5,9 @@
 - 🎓 Atualmente no segundo semestre de ciência da computação!
 - 📫 <a href="https://beacons.ai/vitor247">Meus links</a>
 
+##
+
+What I cannot create, I do not understand.<br>Richard Feynman
 <!--
 <div>
   <a href="https://github.com/vitor247">
