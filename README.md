@@ -1,4 +1,4 @@
-### Olá eu sou o Vitor, estudante e apaixonado por tecnologia!
+### Olá eu sou o Vitor!
 
 ##
 
